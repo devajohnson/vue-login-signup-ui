@@ -12,7 +12,6 @@
                 <label>Password</label>
                 <input type="password" class="form-control form-control-lg" />
             </div>
-
             <button type="submit" class="btn btn-dark btn-lg btn-block">Sign In</button>
 
             <p class="forgot-password text-right mt-2 mb-4">
